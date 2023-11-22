@@ -4,10 +4,10 @@ tools : cypress.io
 **Menjalankan Proyek**
 Untuk menjalankan proyek ini, ikuti langkah-langkah di bawah ini:
 
-**Pastikan Anda sudah clone proyek ini.**
-`1.`Buka terminal atau command line.  
+**Pastikan Anda sudah clone proyek ini.**  
+`1.`Buka terminal atau command line.    
 `2.`Pindah ke direktori proyek ini menggunakan perintah cd.  
-cd Freelance\cypress\e2e
+cd Freelance\cypress\e2e  
 `3.`Jalankan perintah berikut untuk membuka Cypress:  
 npx cypress open  
 `4.`Setelah Cypress terbuka,  
