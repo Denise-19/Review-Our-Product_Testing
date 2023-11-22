@@ -4,7 +4,7 @@ tools : cypress.io
 **Menjalankan Proyek**
 Untuk menjalankan proyek ini, ikuti langkah-langkah di bawah ini:
 
-Pastikan Anda sudah clone proyek ini.
+**Pastikan Anda sudah clone proyek ini.**
 Buka terminal atau command line.
 Pindah ke direktori proyek ini menggunakan perintah cd.
 cd Freelance\cypress\e2e
