@@ -16,6 +16,5 @@ Anda dapat menjalankan skenario pengujian teknis pada file technicalTest.cy.js.
 
 Jika ada pertanyaan atau masalah, jangan ragu untuk menghubungi saya  
 Denise Gratia Aruan  
-081375332884  
-denisearuan19@gmail.com
+
 
